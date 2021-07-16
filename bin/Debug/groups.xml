@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <Name>Group 0</Name>
+    <Number>0</Number>
+  </Group>
+  <Group>
+    <Name>Group 1</Name>
+    <Number>1</Number>
+  </Group>
+  <Group>
+    <Name>Group 2</Name>
+    <Number>2</Number>
+  </Group>
+  <Group>
+    <Name>Group 3</Name>
+    <Number>3</Number>
+  </Group>
+  <Group>
+    <Name>Group 4</Name>
+    <Number>4</Number>
+  </Group>
+  <Group>
+    <Name>Group 5</Name>
+    <Number>5</Number>
+  </Group>
+  <Group>
+    <Name>Group 6</Name>
+    <Number>6</Number>
+  </Group>
+  <Group>
+    <Name>Group 7</Name>
+    <Number>7</Number>
+  </Group>
+  <Group>
+    <Name>Group 8</Name>
+    <Number>8</Number>
+  </Group>
+</ArrayOfGroup>
